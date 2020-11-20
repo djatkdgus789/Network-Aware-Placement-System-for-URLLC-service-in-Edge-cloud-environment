@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: default-scheduler-single-device
+  labels:
+    app : single-device
+spec:
+  containers:
+  - name: pod-with-second-annotation-container
+    image: djatkdgus789/koren-single-device:0.1.1
+    ports:
+    - containerPort: 8080
