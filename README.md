@@ -21,4 +21,4 @@ Among the developed results, the ***NAS*** and ***HRDF*** schedulers showed that
 
 The technology proposed in this project can be expected to meet the delay time required for VR/AR and autonomous driving, and it is easy to access the technology by solving the absence of a solution or system framework for edge cloud. Therefore, it is not only useful in enterprise 5G, Smart City, deployment environment, but also improves the performance of URLLC service.
 Future Work introduces machine learning through channel estimation data to improve the selection in the node selection process of ***NAS***, and through Application Aware, the possibility of technological advancement can be expected by reducing time in the scheduling process.
-*** 
+***  
